@@ -5,6 +5,7 @@ const router = express.Router();
 const { Rental, validate } = require('../models/rental');
 const { Movie } = require('../models/movie');
 const { Customer } = require('../models/customer');
+const auth = require('../middleware/auth');
 
 // Fawn.init(mongoose);
 

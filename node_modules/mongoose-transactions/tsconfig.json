@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "sourceRoot": "src",
+        "outDir": "dist",
+        "watch": true,
+        "types": [
+            "node",
+            "jest",
+            "core-js"
+        ],
+        "sourceMap": true,
+        "lib": [
+            "es2015"
+        ]
+    },
+    "compileOnSave": true
+}
