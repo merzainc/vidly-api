@@ -6,7 +6,7 @@ module.exports = function () {
         process.exit(1);
     }
     if (!config.get('JWT_KEY')) {
-        throw new Error('jsonwebtoken key is not defined');
+        throw new Error('jwt private key is not defined');
         process.exit(1);
     }
 }
