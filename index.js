@@ -12,5 +12,9 @@ require('./start/config')();
 require('./start/validation')();
 // require('./start/prod')(app);
 
+app.get('/', (req, res) => {
+    res.send('Vidly API Service');
+});
+
 const port = process.env.PORT || config.get('PORT');
 app.listen(port, () => logger.info(`Listening on: http://localhost:${port}`));
