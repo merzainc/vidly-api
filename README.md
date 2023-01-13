@@ -3,15 +3,15 @@ Vidly API - This project is the backend of vidly, an imaginary video rental app.
 
 To view front-end app demo for this api click here, [Vidly Demo](https://merzainc.github.io/vidly).
 
-I built this api from Mosh Hamedani's [Complete Node Course](https://codewithmosh.com/p/the-complete-node-js-course) course using latest versions of the packages and dependencies. I created it if you prefer an updated version of the api. Also, will continue to maintain to stay up to date.
+I built this api from Mosh Hamedani's [Complete Node Course](https://codewithmosh.com/p/the-complete-node-js-course) course using latest versions of the packages and dependencies. I created it for reference, if you prefer an updated version of the api. Will continue to maintaint it.
 
 ## Requirements
 
 To run this app you need the meet the following requirements: 
 
-1. MongoDB version `6.0.0` 
-2. Node version `18.12.0` 
-3. Npm version `9.2.0`
+1. MongoDB version `6.0.0 or later` 
+2. Node version `18.12.0 or later` 
+3. Npm version `9.2.0 or later`
 
 You can use MongoDB Community Edition follow [mongodb docs](https://docs.mongodb.com/manual/installation/) to run app.
 
@@ -44,7 +44,7 @@ All tests should pass.
 
     nodemon
 
-This will launch the Node server on port 3900. If that port is busy, you can set a different point in config/default.json.
+This will launch the node server on port 3900. If that port is busy, you can set a different point in config/default.json. Use `nodemon` if you wanna make changes.
 
 Open up your browser and head over to:
 
