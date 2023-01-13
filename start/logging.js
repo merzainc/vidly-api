@@ -3,7 +3,6 @@ const winston = require('winston');
 require('winston-mongodb');
 const logger = require('../utils/logger');
 
-
 process.on('uncaughtException', (ex) => {
     logger.error(ex.message, ex);
     process.exit(1);

@@ -1,4 +1,5 @@
 {
     "JWT_KEY": "",
-    "MONGO_URI": ""
+    "MONGO_URI": "",
+    "PORT": "3900"
 }
