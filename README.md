@@ -77,6 +77,7 @@ You can learn more in the [Complete Node Course](https://codewithmosh.com/p/the-
 
 To learn React, check out this course [Mastering React](https://codewithmosh.com/p/mastering-react), were you can learn to develop front-end app for this api.
 
-
+## Official Repository
+Check out the official repository by Mosh himself, [Vidly API Node](https://github.com/mosh-hamedani/vidly-api-node). 
 
 
