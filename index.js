@@ -12,8 +12,11 @@ require('./start/config')();
 require('./start/validation')();
 // require('./start/prod')(app);
 
+app.set('view engine', 'pug');
+app.set('views', './views');
+
 app.get('/', (req, res) => {
-    res.send('Vidly API Service');
+    res.render('index', { title: 'Vidly API', message: 'Welcome to Vidly API Service' });
 });
 
 const port = process.env.PORT || config.get('PORT');
