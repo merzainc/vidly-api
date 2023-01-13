@@ -1,9 +1,9 @@
 # Introduction
 Vidly API - This project is the backend of vidly, an imaginary video rental app.
 
-To view app demo click here, [Vidly Demo](https://merzainc.github.io/vidly).
+To view front-end app demo for this api click here, [Vidly Demo](https://merzainc.github.io/vidly).
 
-Whilst learning Mosh Hamedani's courses, i built this back-end using latest npm pacakges.
+I built this api from Mosh Hamedani's [Complete Node Course](https://codewithmosh.com/p/the-complete-node-js-course) course using latest versions of the packages and dependencies. I created it if you prefer an updated version of the api. Also, will continue to maintain to stay up to date.
 
 ## Requirements
 
@@ -13,7 +13,7 @@ To run this app you need the meet the following requirements:
 2. Node version `18.12.0` 
 3. Npm version `9.2.0`
 
-You can use latest versions of these requirements. To use MongoDB Community Edition follow [mongodb docs](https://docs.mongodb.com/manual/installation/).
+You can use MongoDB Community Edition follow [mongodb docs](https://docs.mongodb.com/manual/installation/) to run app.
 
 ## Setup
 Make sure to follow all these steps exactly as explained below. Do not miss any steps or you won't be able to run this application.
@@ -73,9 +73,9 @@ On Windows
 
 ## Learn More
 
-You can learn more in the [Complete Node Course](https://codewithmosh.com/p/the-complete-node-js-course).
+You can learn more in the [Complete Node Course](https://codewithmosh.com/p/the-complete-node-js-course) course, were this api was developed as an example.
 
-To learn React, check out the [Mastering React](https://codewithmosh.com/p/mastering-react).
+To learn React, check out this course [Mastering React](https://codewithmosh.com/p/mastering-react), were you can learn to develop front-end app for this api.
 
 
 
