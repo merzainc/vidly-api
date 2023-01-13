@@ -1,3 +1,4 @@
 {
-    "PRIVATE_KEY": "VIDLY_KEY"
+    "JWT_KEY": "JWT_KEY",
+    "MONGO_URI": "MONGO_URL"
 }
