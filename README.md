@@ -1,3 +1,4 @@
+This repository is now archived, click here [api-vidly-ts](https://github.com/merzainc/api-vidly-ts) to see updated repo.
 # Introduction
 Vidly API - This project is the backend of vidly, an imaginary video rental app.
 
